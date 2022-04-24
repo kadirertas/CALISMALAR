@@ -1,0 +1,3 @@
+BİLGİLENDİRME: aşağıda verilen iki proje biri müşteri diğeri server olmak üzere hazırlanmış bir chat otomasyonudur
+ chat yapısın 2 bireyinden müşteri olanı mesaj atar ve servere bekler. bundan dolayı otomasyon doğruluğu için lütfen 
+2 otomasyonu beraber çalıştırıp test edelim 
